@@ -38,9 +38,4 @@ This repository contains my personal profile/portfolio website built with modern
 
 ---
 
-## 🏗️ Project Structure
-
-
-# Live Preview
-
-You can view a live preview of the project [here](https://profile-delta-snowy.vercel.app/).
+##
